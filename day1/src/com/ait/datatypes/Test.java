@@ -3,8 +3,10 @@ package com.ait.datatypes;
 public class Test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		String name= "bheema";
+		int i = 67;
+		System.out.println(name);
+		System.out.println(i);
 	}
 
 }
