@@ -1,4 +1,4 @@
-package com.ait.practise;
+package com.ait.practise1;
 
 public class Test9 {
 

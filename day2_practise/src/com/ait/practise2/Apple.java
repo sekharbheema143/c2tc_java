@@ -1,4 +1,4 @@
-package com.ait.practise;
+package com.ait.practise2;
 
 public class Apple {
 		int weight;
